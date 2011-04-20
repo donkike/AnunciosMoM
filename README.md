@@ -7,6 +7,11 @@ Introducción
 Sistema de anuncios con mútliples productores, consumidores y canales de tópicos.
 Implementación en Java utilizando RMI y ActiveMQ.
 
+Requerimientos
+--------------
+
+* Librería de ActiveMQ para Java.
+
 Instrucciones
 -------------
 
